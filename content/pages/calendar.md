@@ -4,47 +4,532 @@ title: Calendar
 uid: 9a44f1d6-cdf4-1ccf-5d8e-7a90aedcf019
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | Introduction to Class and Requirements: What is "Fascism"?, What is "Nazism"? | &nbsp; |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 2 |  {{< br >}}{{< br >}} Imperial Germany and the First World War {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Fabri, Friedrich. Short excerpt from _Does_ _Germany_ _Need Colonies?_ {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Total War and Total (?) Defeat | &nbsp; |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 4 |  {{< br >}}{{< br >}} Revolution and the Weimar Constitution {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Remarque, Jünger. "Letters from the Front and Home Front" {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} The Treaty of Versailles {{< br >}}{{< br >}} Economic Shock {{< br >}}{{< br >}} Paramilitary Politics {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 4**{{< /td-colspan >}} |||
-| 6 | Recovery, and Weimar Culture I: Art and the Avant-Garde (Visual Presentation) | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Weimar Culture II: The New Woman {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Berghaus, Gunter. "Girlkultur: Feminism, Americanism, and Popular Entertainment in Weimar Germany." _Journal of Design History_ (1988).  {{< br >}}Nenno, Nancy. "Feminity, the Primitive, and Modern Urban Space: Josephine Baker in Berlin." {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 8 | Film: "The Blue Angel" _(Die Blaue Engel)_ (1930, 107 minutes) | &nbsp; |
-| 9 | Countercurrents: Anti-Semitism, Völkisch Nationalism (and the Origins of the Nazi Party) | First paper due 3 days after Session 9 (5-6 pages) |
-| {{< td-colspan 3 >}}**Week 6**{{< /td-colspan >}} |||
-| 10 |  {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Fallada, Hans. _Little Man, What Now?_ 1933. {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 7**{{< /td-colspan >}} |||
-| 11 | The Great Depression and the Polarization of Politics | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Allen, William S. _The Nazi Seizure of Power_. {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 8**{{< /td-colspan >}} |||
-| 13 | The Nazi Seizure of Power and _Gleichschaltung_ | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} National Socialist Propaganda and Aesthetics: The New Mass Media {{< br >}}{{< br >}} Film: Excerpts from Leni Riefenstahl's _Triumph of the_ _Will_ and _Olympia_ {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} The films of Leni Riefenstahl  {{< br >}}Fest, Joachim. _The Face of the Third Reich_. (Goebbels) {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 9**{{< /td-colspan >}} |||
-| 15 |  {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Allen, William S. _The Nazi Seizure of Power._ {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | The Racial State | &nbsp; |
-| {{< td-colspan 3 >}}**Week 10**{{< /td-colspan >}} |||
-| 17 | The Rise of the SS State, and Everyday Life under Nazism | Second paper due (5-6 pages) |
-| 18 | Outbreak of the Second World War | &nbsp; |
-| {{< td-colspan 3 >}}**Week 11**{{< /td-colspan >}} |||
-| 19 | The Course of the War, and the Eastern Front | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Origins of the "Final Solution" and the Machinery of Mass Murder {{< br >}}{{< br >}} Film: Excerpt from _Die Ewige Jüde_ {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Report of Einsatzgruppe C (1941)  {{< br >}}Minutes of the Wannsee Conference (1942) {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 12**{{< /td-colspan >}} |||
-| 21 |  {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Browning. _Ordinary Men_. {{< br >}}{{< br >}} Fest, Joachim. _The Face of the Third Reich_. (Höss) {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Meeting with Instructor: Review of "Der Brand" (Strategic Bombing) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 13**{{< /td-colspan >}} |||
-| 23 |  {{< br >}}{{< br >}} The Defeat of Germany and _Götterdammerung_ {{< br >}}{{< br >}} _Discussion_ {{< br >}}{{< br >}} Allen, William S. _The Nazi Seizure of Power_.  {{< br >}}Fest, Joachim. _The Face of the Third Reich_. {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | "Zero Hour" and Denazification | Third paper due (5-6 pages) |
-| {{< td-colspan 3 >}}**Week 14**{{< /td-colspan >}} |||
-| 25 | Film: _Germany Year Zero_ (1947, 78 minutes) or  {{< br >}}_Somewhere in Berlin (Irgendwo in Berlin)_ (1946, DEFA), 79 minutes. | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Discussion of Film {{< br >}}{{< br >}} The Legacy of Nazism in History, Memory and Myth {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Week 15**{{< /td-colspan >}} |||
-| &nbsp; | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Class and Requirements: What is "Fascism"?, What is "Nazism"?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Imperial Germany and the First World War
+
+_Discussion_
+
+Fabri, Friedrich. Short excerpt from _Does_ _Germany_ _Need Colonies?_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Total War and Total (?) Defeat
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Revolution and the Weimar Constitution
+
+_Discussion_
+
+Remarque, Jünger. "Letters from the Front and Home Front"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Treaty of Versailles
+
+Economic Shock
+
+Paramilitary Politics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Recovery, and Weimar Culture I: Art and the Avant-Garde (Visual Presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Weimar Culture II: The New Woman
+
+_Discussion_
+
+Berghaus, Gunter. "Girlkultur: Feminism, Americanism, and Popular Entertainment in Weimar Germany." _Journal of Design History_ (1988).  
+Nenno, Nancy. "Feminity, the Primitive, and Modern Urban Space: Josephine Baker in Berlin."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Film: "The Blue Angel" _(Die Blaue Engel)_ (1930, 107 minutes)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Countercurrents: Anti-Semitism, Völkisch Nationalism (and the Origins of the Nazi Party)
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due 3 days after Session 9 (5-6 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Discussion_
+
+Fallada, Hans. _Little Man, What Now?_ 1933.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Great Depression and the Polarization of Politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Discussion_
+
+Allen, William S. _The Nazi Seizure of Power_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Nazi Seizure of Power and _Gleichschaltung_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+National Socialist Propaganda and Aesthetics: The New Mass Media
+
+Film: Excerpts from Leni Riefenstahl's _Triumph of the_ _Will_ and _Olympia_
+
+_Discussion_
+
+The films of Leni Riefenstahl  
+Fest, Joachim. _The Face of the Third Reich_. (Goebbels)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Discussion_
+
+Allen, William S. _The Nazi Seizure of Power._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Racial State
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise of the SS State, and Everyday Life under Nazism
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due (5-6 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Outbreak of the Second World War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The Course of the War, and the Eastern Front
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Origins of the "Final Solution" and the Machinery of Mass Murder
+
+Film: Excerpt from _Die Ewige Jüde_
+
+_Discussion_
+
+Report of Einsatzgruppe C (1941)  
+Minutes of the Wannsee Conference (1942)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Discussion_
+
+Browning. _Ordinary Men_.
+
+Fest, Joachim. _The Face of the Third Reich_. (Höss)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Meeting with Instructor: Review of "Der Brand" (Strategic Bombing)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Defeat of Germany and _Götterdammerung_
+
+_Discussion_
+
+Allen, William S. _The Nazi Seizure of Power_.  
+Fest, Joachim. _The Face of the Third Reich_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+"Zero Hour" and Denazification
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due (5-6 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Germany Year Zero_ (1947, 78 minutes) or  
+_Somewhere in Berlin (Irgendwo in Berlin)_ (1946, DEFA), 79 minutes.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Film
+
+The Legacy of Nazism in History, Memory and Myth
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 15**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
