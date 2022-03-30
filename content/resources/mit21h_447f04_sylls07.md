@@ -4,6 +4,7 @@ description: This syllabus provides a course description and information on grad
   books, and the course schedule.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/cdc2b1b734f3b3421d50b838d5406b98_MIT21H_447f04_sylls07.pdf
 file_type: application/pdf
+parent_uid: 71e3f9f7-660b-a8da-f646-32dfe41a49d3
 resourcetype: Document
 title: Spring 2007, David Ciarlo
 uid: cdc2b1b7-34f3-b342-1d50-b838d5406b98
